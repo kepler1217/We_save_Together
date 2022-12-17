@@ -36,6 +36,7 @@
 	6. 프로젝트 버전관리 계획 : 국제 표준 참고 (https://otrodevym.tistory.com/entry/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC-Semantic-Versioning%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%99%80-Version-Ranges)
 	7. Navigation 설계
  9. 과제 계획서 개편
+ 10. 백엔드 API 설계
 
 (위 사항에 대한 많은 의견을 주세요. 디스코드에 아이디어 게시판있음)
 (회의를 많이 하면 좋다.)
