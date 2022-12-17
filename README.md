@@ -17,7 +17,7 @@
  2. 상세설계 명세서 개편
  3. 개발 전공지식 공부 : 
 	개발 - React-Native, CSS, Javascript, Expo, Express, MongoDB 
-	협업 - git, github, figma
+	협업 - git, github, figma (https://hengbokhan.tistory.com/140)
  4. 프로젝트 프로토타입 제작 : codefordcu@gmail.com (https://moond.tistory.com/46)
  5. 전시용 패널 작성
  6. 개발 표준 정립 : 

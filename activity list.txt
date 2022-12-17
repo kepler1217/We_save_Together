@@ -1,0 +1,4 @@
+2022/12/17
+ - create Github Capston repo
+ - Github 각 폴더 생성 및 기본사항 입력
+ - Github Readme 기본사항 입력
