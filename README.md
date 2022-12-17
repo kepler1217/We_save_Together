@@ -2,13 +2,13 @@
 [make by team. CodeforDCU]
 
 <폴더명>
-business plan : 과제 계획서
-data : 자료
-Detailed design specification : 상세설계명세서
-Prototype : 프로토타입
-Requirements analysis : 요구사항분석서
-software display panel : 소프트웨어 전시 패널
-We_save_Together : 개발 프로젝트
+	1. business plan : 과제 계획서
+	2. data : 자료
+	3. Detailed design specification : 상세설계명세서
+	4. Prototype : 프로토타입
+	5. Requirements analysis : 요구사항분석서
+	6. software display panel : 소프트웨어 전시 패널
+	7. We_save_Together : 개발 프로젝트
 
 
 <프로젝트 과제 대분류>
