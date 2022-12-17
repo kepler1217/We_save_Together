@@ -25,6 +25,7 @@
 	4. 전역관리 라이브러리 종류 결정 : Redux, Zustend, useContext 등
 	5. 제공 기능의 정확한 명세 (Usecase, 이벤트 흐름)
 	6. 프로젝트 버전관리 계획 : 국제 표준 참고 (https://otrodevym.tistory.com/entry/%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC-Semantic-Versioning%EC%8B%9C%EB%A7%A8%ED%8B%B1-%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%99%80-Version-Ranges)
+	7. Navigation 설계
  9. 과제 계획서 개편
 
 (위 사항에 대한 많은 의견을 주세요. 디스코드에 아이디어 게시판있음)
