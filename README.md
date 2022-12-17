@@ -2,6 +2,7 @@
 [make by team. CodeforDCU]
 
 <폴더명>
+
 	1. business plan : 과제 계획서
 	2. data : 자료
 	3. Detailed design specification : 상세설계명세서
